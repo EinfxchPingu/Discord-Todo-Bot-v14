@@ -61,6 +61,6 @@ The bot stores todo data in a JSON file located at `./data.json`.
 
 ## Usage
 
-1. Geben Sie den Code nicht als Ihren Code aus!
-2. Sie haben das Recht, den Code zu kopieren, zu ändern und erneut zu veröffentlichen, wenn in der Beschreibung, im Code oder an einer anderen Stelle, an der leicht zu erkennen ist, dass ich (EinfxchPingu) der Autor des Codes bin.
-3. Ich übernehme keinerlei Haftung für Schäden, Verluste oder Probleme, die sich aus der Verwendung oder dem Missverständnis des bereitgestellten Codes ergeben können. 
+1. Don't pass off the code as your code!
+2. You have the right to copy, modify, and republish the code if in the description, code, or any other place where it is easy to see that I (EinfxchPingu) am the author of the code.
+3. I do not accept any liability whatsoever for any damage, loss or problem that may result from the use or misunderstanding of the code provided. 
